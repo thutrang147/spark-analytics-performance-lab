@@ -1,8 +1,11 @@
 .venv/
 __pycache__/
-.ipynb_checkpoints/
 .pytest_cache/
-.DS_Store
+.ipynb_checkpoints/
 data/raw/
 data/generated/
-spark-warehouse/
+data/staging/
+data/clean/
+data/rejected/
+data/marts/
+artifacts/spark-events/
